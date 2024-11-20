@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block title %} Laptop Price Predictor{% endblock %}
+{% block content %}
+    <div class="container-sm">
+         <h2 class="mb-4 text-center">Welcome to the Laptop Price Predictor</h2>
+        <form method="post" id="laptop-form" novalidate>
+            {% csrf_token %}
+            <div class="mb-3">
+                <div class="mb-2">
+                    {{ form.brand.label_tag }}
+                </div>
+                {{ form.brand }}
+            </div>
+            <div class="mb-3">
+                <div class="mb-2">
+                    {{ form.processor.label_tag }}
+                </div>
+                {{ form.processor }}
+            </div>
+            <div class="mb-3">
+                 <div class="mb-2">
+                    {{ form.ram_size.label_tag }}
+                 </div>
+                {{ form.ram_size }}
+            </div>
+            <div class="mb-3">
+                <div class="mb-2">
+                    {{ form.storage_type.label_tag }}
+                </div>
+                {{ form.storage_type }}
+            </div>
+            <button type="submit" class="btn btn-primary">Predict Price</button>
+        </form>
+
+        <div id="prediction-result" class="mt-4" style="display:none;">
+            <div class="alert alert-success">
+                Your laptop's price will be <span id="predicted-price"></span>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        $('.select2').select2({
+            width: '100%',
+            theme: "bootstrap"
+        });
+
+        $('#laptop-form').on('submit', function(event) {
+            event.preventDefault();
+
+            $.ajax({
+                type: 'POST',
+                url: '{% url "predict_price" %}',
+                data: $(this).serialize(),
+                dataType: 'json',
+                success: function(response) {
+                    if (response.predicted_price) {
+                        $('#predicted-price').text(response.predicted_price);
+                        $('#prediction-result').show();
+                    } else if (response.error) {
+                        alert(response.error);
+                    }
+                },
+                error: function() {
+                    alert("An error occurred. Please try again.");
+                }
+            });
+        });
+    });
+</script>
+{% endblock %}
