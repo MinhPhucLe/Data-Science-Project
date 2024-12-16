@@ -18,4 +18,4 @@ for filename in os.listdir(folder_path):
 combined_df = pd.concat(dfs, ignore_index=True)
 
 # Save the combined dataframe to a new CSV file
-combined_df.to_csv('Data.csv', index=False)
+combined_df.to_csv("Data/Data.csv", index=False)
