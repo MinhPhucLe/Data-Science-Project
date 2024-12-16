@@ -8,4 +8,5 @@ brand_mapping = {
     "LENOVO": "Lenovo",
     "ACER": "Acer",
     "ASUS": "Asus",
+    "Gigabyte": "MSI"
 }
