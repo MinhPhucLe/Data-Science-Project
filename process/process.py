@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Define the folder containing the CSV files
-folder_path = 'crawl'
+folder_path = 'Dai'
 
 # List to hold dataframes
 dfs = []
@@ -14,7 +14,7 @@ for filename in os.listdir(folder_path):
         # Read the CSV file into a dataframe
         df = pd.read_csv(file_path)
         # Drop the 'page' and 'name' columns
-        df = df.drop(columns=['page', 'name', 'link', 'image'])
+        df = df.drop(columns=['page', 'name', 'link'])
         # Append the dataframe to the list
         dfs.append(df)
 
@@ -22,4 +22,4 @@ for filename in os.listdir(folder_path):
 combined_df = pd.concat(dfs, ignore_index=True)
 
 # Save the combined dataframe to a new CSV file
-combined_df.to_csv('combined.csv', index=False)
+combined_df.to_csv('dai_combined.csv', index=False)
