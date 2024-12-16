@@ -8,9 +8,9 @@ Asus,33990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,AMD Radeon 890M 
 Lenovo,31990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,,OLED
 HP,17990000.0,0,1,Intel Core 5 120U,Intel,8.0,DDR4,SSD,512GB,Intel Graphics,Intel,14.0,HD
 Asus,20490000.0,0,1,Intel Core i712700H,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,8K
-Lenovo,25990000.0,0,1,Intel Core i513500H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050,Nvidia,16.0,IPS
+Lenovo,25990000.0,0,1,Intel Core i513500H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.0,IPS
 LG,38990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,OLED
-Lenovo,37990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,2K
+Lenovo,37990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,2K
 Lenovo,43290000.0,0,1,Intel Core Ultra 7 155U,Intel,32.0,DDR5,SSD,1TB,Intel Graphics,Intel,13.3,IPS
 Lenovo,44390000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,13.3,IPS
 Lenovo,41090000.0,0,1,Intel Core Ultra 7 155U,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,16.0,IPS
@@ -54,7 +54,7 @@ Asus,12690000.0,0,1,Intel Core i31315U,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphi
 Lenovo,27490000.0,0,1,Intel Core i51335U,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
 Dell,24790000.0,0,1,Intel Core 5 120U,Intel,16.0,DDR5,SSD,1TB,Intel Graphics,Intel,16.0,HD
 Lenovo,21990000.0,0,1,Intel Core i71355U,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
-Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,HD
+Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,HD
 Lenovo,33490000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,2K
 Lenovo,28690000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,IPS
 Lenovo,34990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,13.5,8K
@@ -104,7 +104,7 @@ Asus,15990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Grap
 Asus,14990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Asus,14190000.0,0,1,Intel Core i513420H,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 Asus,14190000.0,0,1,Intel Core i513420H,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
-MSI,36990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.0,HD
+MSI,36990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,HD
 Asus,20390000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Asus,16790000.0,0,1,Intel Core i513500H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Lenovo,29590000.0,0,1,Intel Core i71265U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
@@ -124,7 +124,7 @@ Dell,26990000.0,0,1,Intel Core Ultra 5 125U,Intel,16.0,DDR5,SSD,512GB,Intel Grap
 HP,45990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,2TB,Intel Arc Graphics,Intel,14.0,8K
 Asus,29490000.0,0,1,Intel Core Ultra 5 226V 16GB,Intel,16.0,DDR5,SSD,1TB,Intel Arc A-Series 130V,Intel,14.0,
 HP,28990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,16.0,IPS
-Lenovo,26990000.0,0,1,Intel Core i712700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,14.5,IPS
+Lenovo,26990000.0,0,1,Intel Core i712700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,14.5,IPS
 Lenovo,40490000.0,0,1,Intel Core Ultra 5 125H,Intel,32.0,DDR5,SSD,1TB,NVIDIA RTX 500 Ada,Apple,14.5,IPS
 HP,57990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,
 HP,54990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,
@@ -160,7 +160,7 @@ MSI,40990000.0,0,1,AMD Ryzen AI 9 365,AMD,32.0,DDR5,SSD,1TB,AMD Radeon 880M Grap
 Lenovo,31990000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,2K
 Lenovo,40990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,13.3,IPS
 LG,38990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,,512GB,Intel Arc Graphics,Intel,16.0,IPS
-LG,48990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050,Nvidia,17.0,IPS
+LG,48990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,17.0,IPS
 HP,32490000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,IPS
 HP,30990000.0,0,1,Intel Core Ultra 7 155U,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,IPS
 Lenovo,34200000.0,0,1,Intel Core Ultra 5 125H,Intel,32.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,13.3,IPS
@@ -314,14 +314,14 @@ Acer,10490000.0,0,1,Intel Core i31215U,Intel,8.0,DDR5,SSD,256GB,Intel UHD Graphi
 HP,33990000.0,0,1,AMD Ryzen 78840HS,AMD,16.0,DDR5,SSD,1TB,AMD Radeon Graphics,AMD,14.0,8K
 Lenovo,33990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,16.0,IPS
 Lenovo,20580000.0,0,1,Intel Core i513420H,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,16.0,IPS
-Acer,44990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,8K
-Acer,47490000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.5,8K
-Acer,53990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,14.5,8K
+Acer,44990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,8K
+Acer,47490000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.5,8K
+Acer,53990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,14.5,8K
 Lenovo,31990000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,13.3,IPS
 Lenovo,52990000.0,0,1,Intel Core Ultra 5 125H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,IPS
 Lenovo,19490000.0,0,1,Intel Core i513420H,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,16.0,IPS
 Lenovo,19290000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,16.0,IPS
-Lenovo,47290000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,8K
+Lenovo,47290000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,8K
 Acer,13990000.0,0,1,Intel Core i51235U,Intel,16.0,DDR5,SSD,512GB,Intel HD Graphics,Intel,16.0,HD
 Acer,12490000.0,0,1,Intel Core i51235U,Intel,8.0,DDR5,SSD,512GB,Intel HD Graphics,Intel,16.0,HD
 Asus,21990000.0,0,1,Intel Core i713700H,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,,HD
@@ -413,7 +413,7 @@ Lenovo,15590000.0,0,1,Intel Core i513420H,Intel,16.0,DDR4,SSD,512GB,Intel UHD Gr
 Acer,13990000.0,0,1,AMD Ryzen 75700U,AMD,16.0,DDR4,SSD,512GB,AMD Radeon Graphics,AMD,14.0,TFT
 Asus,27990000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,
 Lenovo,23690000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,OLED
-Lenovo,47290000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,8K
+Lenovo,47290000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,8K
 Lenovo,22990000.0,0,1,AMD Ryzen 77730U,AMD,16.0,DDR4,SSD,512GB,AMD Radeon Graphics,AMD,16.0,IPS
 Lenovo,14350000.0,0,1,AMD Ryzen 5 7520U,AMD,16.0,DDR5,SSD,512GB,AMD Radeon 610M Graphics,AMD,15.6,HD
 Lenovo,15090000.0,0,1,Intel Core i513420H,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
@@ -423,19 +423,19 @@ Acer,14990000.0,0,1,Intel Core i51235U,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graph
 LG,45490000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,16.0,IPS
 LG,41390000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,IPS
 Asus,20990000.0,0,1,Intel Core i513500H,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,8K
-Dell,80990000.0,0,1,Intel Core Ultra 7 155H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,2K
-Dell,71990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,2K
+Dell,80990000.0,0,1,Intel Core Ultra 7 155H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,2K
+Dell,71990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,2K
 Dell,62990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.5,2K
-Dell,53990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,14.5,HD
+Dell,53990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,HD
 Dell,46990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.5,HD
-Dell,95990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.3,OLED
-Dell,86990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.3,OLED
-Dell,68990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.3,OLED
-Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.3,HD
-Dell,95990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.3,OLED
-Dell,86990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.3,OLED
-Dell,68990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.3,OLED
-Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.3,HD
+Dell,95990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.3,OLED
+Dell,86990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.3,OLED
+Dell,68990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.3,OLED
+Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.3,HD
+Dell,95990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.3,OLED
+Dell,86990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.3,OLED
+Dell,68990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.3,OLED
+Dell,60990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.3,HD
 Dell,38990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,13.4,HD
 Dell,35990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,13.4,HD
 Dell,20490000.0,0,1,Intel Core i51334U,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
@@ -444,7 +444,7 @@ Dell,27190000.0,0,1,Intel Core 5120U,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce MX
 Dell,24790000.0,0,1,Intel Core 5 120U,Intel,16.0,DDR5,SSD,1TB,Intel Graphics,Intel,16.0,HD
 Dell,29990000.0,0,1,Intel Core 7150U,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce MX570A,Apple,14.0,2K
 Dell,24990000.0,0,1,Intel Core 5120U,Intel,16.0,DDR5,SSD,1TB,Intel Graphics,Intel,14.0,HD
-Dell,78990000.0,0,1,Intel Core Ultra 7 155H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,2K
+Dell,78990000.0,0,1,Intel Core Ultra 7 155H,Intel,64.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,2K
 Dell,52990000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,13.4,HD
 Acer,15990000.0,0,1,Intel Core i5120U,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 Acer,26990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,14.0,8K
@@ -493,7 +493,7 @@ Dell,21990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe G
 Lenovo,41340000.0,0,1,Intel Core i71360P,Intel,32.0,DDR5,SSD,512GB,NVIDIA RTX A500,Apple,16.0,IPS
 Asus,26990000.0,0,1,Intel Core Ultra 5 125H,Intel,16.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,OLED
 Dell,21990000.0,0,1,Intel Core  i513420H,Intel,16.0,DDR5,SSD,1TB,Intel Iris Xe Graphics,Intel,14.0,
-Lenovo,34990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.0,2K
+Lenovo,34990000.0,0,1,Intel Core Ultra 7 155H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.0,2K
 Dell,20590000.0,0,1,Intel Core i51335U,Intel,8.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 Dell,21990000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 Dell,26490000.0,0,1,Intel Core i71355U,Intel,8.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
@@ -512,7 +512,7 @@ Asus,18990000.0,0,1,AMD Ryzen 77730U,AMD,16.0,DDR4,SSD,512GB,AMD Radeon Graphics
 Lenovo,20990000.0,0,1,Intel Core i71255U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 Dell,19990000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,HD
 Lenovo,21970000.0,0,1,AMD Ryzen 5 7530U,AMD,16.0,DDR4,SSD,512GB,AMD Radeon Graphics,AMD,16.0,IPS
-MSI,55990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
+MSI,55990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
 Asus,36990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,Intel Arc Graphics,Intel,14.0,OLED
 Lenovo,30990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,,OLED
 Lenovo,27690000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,512GB,Intel Arc Graphics,Intel,16.0,2K
@@ -526,7 +526,7 @@ Dell,21990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe G
 HP,18390000.0,0,1,Intel Core i51335U,Intel,8.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,HD
 HP,19590000.0,0,1,Intel Core i51334U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,HD
 HP,19590000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
-Acer,42990000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.5,8K
+Acer,42990000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.5,8K
 Acer,20990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 Acer,17490000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 Acer,20490000.0,0,1,Intel Core i71355U,Intel,16.0,DDR5,SSD,1TB,Intel UHD Graphics,Intel,15.6,HD
@@ -551,10 +551,10 @@ HP,27490000.0,0,1,Intel Core i71355U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphic
 Lenovo,21590000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
 HP,21590000.0,0,1,Intel Core i51335U,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 HP,22590000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
-HP,26390000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
+HP,26390000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
 HP,25890000.0,0,1,Intel Core i71355U,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 HP,26990000.0,0,1,Intel Core i71355U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
-HP,30590000.0,0,1,Intel Core i71355U,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
+HP,30590000.0,0,1,Intel Core i71355U,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
 Asus,33990000.0,0,1,Intel Core i71255U,Intel,16.0,DDR5,SSD,1TB,Intel Iris Xe Graphics,Intel,14.0,HD
 HP,23590000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,13.3,HD
 Dell,18990000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
@@ -621,7 +621,7 @@ Acer,20490000.0,0,1,Intel Core i712650H,Intel,16.0,DDR4,SSD,512GB,Intel UHD Grap
 Acer,16990000.0,0,1,Intel Core i51335U,Intel,16.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,15.6,HD
 HP,11590000.0,0,1,Intel Core i3N305,Intel,8.0,DDR4,SSD,256GB,Intel UHD Graphics,Intel,14.0,HD
 HP,10990000.0,0,1,Intel Core i3N305,Intel,4.0,DDR4,SSD,256GB,Intel UHD Graphics,Intel,14.0,HD
-Dell,27990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,16.0,HD
+Dell,27990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,16.0,HD
 Acer,13790000.0,0,1,Intel Core i3N305,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,IPS
 Acer,10790000.0,0,1,Intel Core i3N305,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Lenovo,34990000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
@@ -633,9 +633,9 @@ Acer,24590000.0,0,1,Intel Core i71355U,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe G
 Acer,19990000.0,0,1,Intel Core i71355U,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,IPS
 Lenovo,26890000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,OLED
 Dell,22990000.0,0,1,Intel Core i51335U,Intel,8.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,16.0,HD
-Dell,29290000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,14.0,
+Dell,29290000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,14.0,
 Dell,24490000.0,0,1,Intel Core i71355U,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce MX550,Apple,15.6,HD
-Dell,33390000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,16.0,HD
+Dell,33390000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,16.0,HD
 Dell,24790000.0,0,1,Intel Core i51335U,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,16.0,HD
 HP,25290000.0,0,1,Intel Core i71355U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,HD
 HP,17990000.0,0,1,Intel Core i51335U,Intel,8.0,DDR4,SSD,256GB,Intel Iris Xe Graphics,Intel,14.0,HD
@@ -694,7 +694,7 @@ Dell,18990000.0,0,1,Intel Core i51335U,Intel,8.0,DDR4,SSD,512GB,Intel Iris Xe Gr
 Dell,20990000.0,0,1,Intel Core i51335U,Intel,8.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 HP,24190000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Dell,18990000.0,0,1,AMD Ryzen 57530U,AMD,,DDR4,SSD,512GB,AMD Radeon Graphics,AMD,14.0,HD
-Dell,31990000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,16.0,HD
+Dell,31990000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,16.0,HD
 Acer,13290000.0,0,1,AMD Ryzen 57520U,AMD,8.0,DDR5,SSD,512GB,AMD Radeon Graphics,AMD,,
 Acer,11790000.0,0,1,Intel Core i3N305,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,14.0,HD
 Acer,12990000.0,0,1,Intel Core i31315U,Intel,8.0,DDR5,SSD,512GB,Intel UHD Graphics,Intel,,
@@ -712,569 +712,569 @@ Asus,13690000.0,0,1,Intel Core i31315U,Intel,8.0,DDR4,SSD,512GB,Intel UHD Graphi
 LG,43990000.0,0,1,Intel Core i51340P,Intel,16.0,DDR5,SSD,512GB,Intel Iris Xe Graphics,Intel,16.0,WQHD
 Asus,26990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,OLED
 Asus,19790000.0,0,1,Intel Core i513500H,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,8K
-MSI,33990000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,1TB,Intel Iris Xe graphics,Intel,13.3,HD
-MSI,47990000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
+MSI,33990000.0,0,1,Intel Core i71360P,Intel,16.0,DDR5,SSD,1TB,Intel Iris Xe Graphics,Intel,13.3,HD
+MSI,47990000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
 MSI,18490000.0,0,1,Intel Core i51335U,Intel,512.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 Asus,18490000.0,0,1,Intel Core i51335U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,15.6,HD
 HP,23890000.0,0,1,Intel Core i71255U,Intel,8.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
 HP,25190000.0,0,1,Intel Core i71255U,Intel,16.0,DDR4,SSD,512GB,Intel Iris Xe Graphics,Intel,14.0,HD
-Asus,,0,1,AMD Ryzen 5 7520U,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,13890000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Acer,10690000.0,0,1,AMD Ryzen 7 5700U,AMD,8.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
-HP,11890000.0,0,1,Intel Core i3 Raptor Lake 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Macbook,18190000.0,0,1,Apple M1,Apple,8.0,,SSD,256 GB,Custom GPU - 7 Cores,Apple,13.3,Retina
-Asus,,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-HP,12990000.0,0,1,AMD Ryzen 5 7430U,AMD,16.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
-Lenovo,11990000.0,0,1,AMD Ryzen 5 7520U,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon 610M Graphics,AMD,15.6,Full HD
-Macbook,,0,1,Apple M3,Apple,8.0,,SSD,512 GB,Custom GPU - 10 Cores,Apple,14.2,Retina
-Asus,,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-HP,12490000.0,0,1,AMD Ryzen 5 7530U,AMD,8.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,Full HD
-Lenovo,16790000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,LPDDR5,SSD,1 TB,Intel UHD Graphics,Intel,14.0,WUXGA
-Acer,,0,1,AMD Ryzen 7 5700U,AMD,16.0,LPDDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,WUXGA
-Macbook,,0,1,Apple M2,Apple,8.0,,SSD,256 GB,Custom GPU - 8 Cores,Apple,13.6,Retina
-Asus,17490000.0,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,9190000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR5,SSD,256 GB,Intel UHD Graphics,Intel,14.0,Full HD
-HP,16790000.0,0,1,Intel Core i5 Raptor Lake 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,12490000.0,0,1,AMD Ryzen 7 5700U,AMD,16.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
-Asus,9990000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
-Acer,9690000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
-Lenovo,21490000.0,0,1,Intel Core i5 Alder Lake 12450HX,Intel,16.0,DDR5,SSD,,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
-Asus,,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,16.0,WUXGA
-Dell,,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-HP,18790000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,8990000.0,0,1,Intel Core i5 Tiger Lake 1135G7,Intel,8.0,DDR4,SSD,256 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,18990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,LPDDR5,SSD,1 TB,Intel UHD Graphics,Intel,15.6,Full HD
-MSI,18490000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Asus,,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,22990000.0,0,1,Intel Core i5 Alder Lake 12450HX,Intel,24.0,,SSD,,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
-Acer,25490000.0,0,1,Intel Core i5 Raptor Lake 13500HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,WUXGA
-MSI,,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-HP,23490000.0,0,1,Intel Core i5 120U,Intel,16.0,DDR4,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
-Asus,14290000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,,0,1,Intel Core i5 Alder Lake 12450HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Acer,16490000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-HP,17990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,15.6,Full HD
-Acer,9990000.0,0,1,Intel Core i3 Raptor Lake 1315U,Intel,8.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-MSI,,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,16.0,WUXGA
-Asus,,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Acer,13990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
-HP,18490000.0,0,1,AMD Ryzen 5 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Macbook,,0,1,Apple M3,Apple,16.0,,SSD,256 GB,Custom GPU - 10 Cores,Apple,13.6,Retina
-HP,,0,1,Intel Core i5 Alder Lake 1240P,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,13990000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Lenovo,26490000.0,0,1,AMD Ryzen 7 7435HS,AMD,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-MSI,13490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-Dell,21490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,16.0,WUXGA
-Asus,23490000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
-Asus,,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,16.0,3.2K
-HP,11490000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
-HP,23490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,16590000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
-MSI,17990000.0,0,1,Intel Core i7 Alder Lake 12650H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Acer,13990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-Asus,,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,22490000.0,0,1,Intel Core i7 Alder Lake 12700H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-HP,10790000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,14.0,Full HD
-Acer,14690000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Acer,22990000.0,0,1,Intel Core i7 Alder Lake 12700H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
-MSI,16490000.0,0,1,AMD Ryzen 5 7535HS,AMD,16.0,DDR5,SSD,,AMD Radeon RX 6550M,AMD,15.6,Full HD
-Lenovo,27990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
-Asus,16990000.0,0,1,AMD Ryzen 5 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Asus,24990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-Acer,18490000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-HP,18990000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Acer,15490000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-HP,11190000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Lenovo,16990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-Lenovo,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,512 GB,Intel Arc Graphics,Intel,16.0,2K
-MSI,24990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,18490000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
-HP,10290000.0,0,1,Intel Core i3 Tiger Lake 1115G4,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
-Asus,,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,20990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,12690000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,8.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,16.0,WUXGA
-Lenovo,17990000.0,0,1,Intel Core i5 120U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,15.3,WUXGA
-MSI,27490000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,28990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Macbook,,0,1,Apple M2,Apple,16.0,,SSD,256 GB,Custom GPU - 10 Cores,Apple,13.6,Retina
-HP,21390000.0,0,1,Intel Core i7 Alder Lake 1260P,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,27290000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
-Lenovo,31490000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
-MSI,16690000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Lenovo,17490000.0,0,1,Intel Core i5 120U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
-Acer,24490000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Dell,22490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,1 TB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Asus,,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
-HP,16990000.0,0,1,Intel Core i7 Alder Lake 1255U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,19990000.0,0,1,AMD Ryzen 7 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Acer,11190000.0,0,1,Intel Core i5 Tiger Lake 1155G7,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-MSI,17990000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Lenovo,21990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
-Acer,18690000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,Full HD
-Lenovo,20490000.0,0,1,Intel Core i5 Alder Lake 12450HX,Intel,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-MSI,16790000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,19490000.0,0,1,Intel Core i5 Alder Lake 12500H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Asus,18990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-MSI,21490000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,32.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-HP,30790000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
-Asus,18490000.0,0,1,AMD Ryzen 5 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-MSI,36990000.0,0,1,AMD Ryzen 7 8845HS,AMD,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
-Lenovo,,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,28990000.0,0,1,Intel Core i7 Raptor Lake 13650HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Lenovo,25490000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,WUXGA
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,21490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Asus,24990000.0,0,1,AMD Ryzen 7 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Acer,16490000.0,0,1,AMD Ryzen 5 7430U,AMD,16.0,LPDDR4,SSD,1 TB,AMD Radeon Graphics,AMD,14.0,Full HD
-Asus,16490000.0,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,24990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-Asus,,0,1,Intel Core Ultra 9 Meteor Lake 185H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-Asus,,0,1,Intel Core i5 Alder Lake 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.0,WUXGA
-Lenovo,47990000.0,0,1,Intel Core i9 Raptor Lake 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
-MSI,15490000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Lenovo,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,16.0,2K
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Acer,17690000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-HP,,0,1,Intel Core i5 Alder Lake 1240P,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,26590000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR4,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
-Asus,30490000.0,0,1,AMD Ryzen 9 AI HX 370,AMD,32.0,,SSD,1 TB,AMD Radeon Graphics,AMD,16.0,3.2K
-Asus,,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-Acer,21190000.0,0,1,Intel Core i7 Alder Lake 12700H,Intel,8.0,DDR4,SSD,,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-MSI,46990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,2.8K
-Lenovo,20790000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
-Lenovo,42990000.0,0,1,Intel Core i7 Raptor Lake 14650HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
-Asus,26990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-MSI,25990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.0,Full HD
-Dell,24990000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
-Asus,,0,1,AMD Ryzen 7 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Acer,18990000.0,0,1,Intel Core i7 Raptor Lake 13700H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
-Asus,26990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-HP,16990000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,8.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
-Asus,,0,1,Intel Core i9 Raptor Lake 13900H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
-Lenovo,26490000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,WUXGA
-MSI,32990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.0,2.8K
-MSI,15490000.0,0,1,AMD Ryzen 5 7535HS,AMD,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Lenovo,41990000.0,0,1,AMD Ryzen 7 8845HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
-Lenovo,17490000.0,0,1,Intel Core i5 120U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,15.6,Full HD
-Dell,27990000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,1 TB,NVIDIA GeForce MX570A,Nvidia,16.0,Full HD
-Acer,18690000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Asus,21990000.0,0,1,Intel Core i9 Raptor Lake 13900H,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,22690000.0,0,1,AMD Ryzen 5 7640HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
-Acer,13490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,8.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
-HP,17990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,15.6,Full HD
-Asus,27490000.0,0,1,AMD Ryzen 7 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-MSI,30990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,13.3,2.8K
-Lenovo,,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.5,2.8K
-Acer,34990000.0,0,1,Intel Core Ultra 5 Lunar Lake 226V,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc A-Series 130V,Intel,14.0,2.8K
-Dell,22490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,14990000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,27690000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
-Acer,16990000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
-Asus,27990000.0,0,1,AMD Ryzen 7 7735HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Acer,12690000.0,0,1,Intel Core i5 Tiger Lake 1135G7,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-Asus,23990000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,14.0,2.8K
-Asus,22990000.0,0,1,AMD Ryzen 5 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Acer,23190000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Acer,21990000.0,0,1,Intel Core i7 Alder Lake 12700H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
-Lenovo,22990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
-MSI,36990000.0,0,1,Intel Core i7 Raptor Lake 14700HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,QHD
-MSI,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,14.0,Full HD
-Dell,23990000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,18490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,18490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,33490000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,DDR5,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.2K
-MSI,28490000.0,0,1,AMD Ryzen 7 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Lenovo,54990000.0,0,1,Intel Core i9 Raptor Lake 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,
-Acer,39990000.0,0,1,Intel Core Ultra 7 Lunar Lake 258V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,14.0,2.8K
-Dell,25990000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,Full HD
-HP,22690000.0,0,1,AMD Ryzen 5 7640HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
-MSI,36990000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
-Asus,18990000.0,0,1,Intel Core i5 Alder Lake 12500H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
-Dell,18490000.0,0,1,Intel Core i5 Raptor Lake 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Lenovo,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,24490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
-HP,11490000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
-Acer,25990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
-HP,11890000.0,0,1,Intel Core i3 Raptor Lake 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Dell,16490000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-MSI,26990000.0,0,1,AMD Ryzen 7 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Lenovo,32990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,DDR5,SSD,1 TB,Intel Arc Graphics,Intel,16.0,
-Asus,31990000.0,0,1,Snapdragon X Elite X1E 78 100,Qualcomm,32.0,,SSD,1 TB,Qualcomm Adreno GPU,Apple,15.6,2.8K
-Lenovo,22990000.0,0,1,Snapdragon X Plus X1P 42 100,Qualcomm,16.0,LPDDR5,SSD,512 GB,Qualcomm Adreno GPU,Apple,14.0,WUXGA
-Asus,19990000.0,0,1,Intel Core i5 Alder Lake 12450H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
-Dell,23990000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
-HP,24990000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
-Lenovo,20590000.0,0,1,Intel Core i5 Raptor Lake 13420H,Intel,16.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,16.0,WUXGA
-MSI,28490000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Dell,31990000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
-Dell,16990000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-Dell,29490000.0,0,1,Intel Core i5 120U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
-Asus,28990000.0,0,1,AMD Ryzen 7 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Acer,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
-HP,33890000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,32.0,,SSD,1 TB,Intel Graphics,Intel,14.0,2.8K
-HP,28990000.0,0,1,AMD Ryzen 7 8840HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
-Dell,31490000.0,0,1,Intel Core i7 150U,Intel,16.0,DDR5,SSD,1 TB,NVIDIA GeForce MX570A,Nvidia,16.0,2.5K
-Dell,54990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc Graphics,Intel,13.4,QHD
-Lenovo,32990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
-HP,34790000.0,0,1,Intel Core i7 Raptor Lake 13700H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
-HP,51790000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-HP,34990000.0,0,1,AMD Ryzen 7 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
-MSI,66490000.0,0,1,Intel Core Ultra 9 Meteor Lake 185H,Intel,32.0,DDR5,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,
-Asus,43990000.0,0,1,Intel Core Ultra 7 Lunar Lake 258V,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-HP,12590000.0,0,1,Intel Core i3 Raptor Lake 1315U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,15.6,Full HD
-MSI,41990000.0,0,1,Intel Core i7 Raptor Lake 14700HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,QHD
-Lenovo,44290000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,32.0,,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
-HP,26790000.0,0,1,AMD Ryzen 5 8640HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
-Dell,40990000.0,0,1,Intel Core i9 Raptor Lake 13900HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Macbook,27690000.0,0,1,Apple M3,Apple,16.0,,SSD,256 GB,Custom GPU - 8 Cores,Apple,13.6,Retina
-HP,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
-HP,24990000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
-MSI,27490000.0,0,1,Intel Core i7 Raptor Lake 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Asus,40990000.0,0,1,AMD Ryzen 9 AI HX 370,AMD,16.0,LPDDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,QHD
-HP,28990000.0,0,1,AMD Ryzen 7 7840HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
-HP,30990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
-MSI,36990000.0,0,1,Intel Core Ultra 7 Lunar Lake 258V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,13.3,2.8K
-Asus,,0,1,Intel Core Ultra 9 Meteor Lake 185H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-MSI,43990000.0,0,1,Intel Core Ultra 9 Lunar Lake 288V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,16.0,4K/UHD
-Dell,,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,2 TB,Intel Arc Graphics,Intel,13.4,QHD
-MSI,69990000.0,0,1,AMD Ryzen 9 AI HX 370,AMD,32.0,,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,4K/UHD
-Macbook,49990000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,512 GB,Custom GPU - 16 Cores,Apple,14.2,Retina
-Macbook,53790000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,512 GB,Custom GPU - 16 Cores,Apple,14.2,Retina
-Macbook,54990000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,1 TB,Custom GPU - 16 Cores,Apple,14.2,Retina
-Macbook,37990000.0,0,1,Apple M3,Apple,24.0,,SSD,512 GB,Custom GPU - 8 Cores,Apple,13.6,Retina
-Acer,13490000.0,0,1,Intel Core i3 Alder Lake 1215U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,15.6,Full HD
-Macbook,59990000.0,0,1,Apple M4 Pro,Apple,48.0,,SSD,512 GB,Custom GPU - 16 Cores,Apple,14.2,Retina
-Macbook,79990000.0,0,1,Apple M4 Pro,Apple,48.0,,SSD,1 TB,Custom GPU - 20 Cores,Apple,16.2,Retina
-HP,19990000.0,0,1,Intel Core i7 Alder Lake 1255U,Intel,8.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
-Macbook,,0,1,Apple M3,Apple,16.0,,SSD,256 GB,Custom GPU - 10 Cores,Apple,15.3,Retina
-Asus,11490000.0,0,1,Intel Core i3 Raptor Lake 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,WUXGA
-Dell,27990000.0,0,1,Intel Core i5 Raptor Lake 1340P,Intel,16.0,LPDDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,14.0,QHD
-Dell,36990000.0,0,1,Intel Core i7 Raptor Lake 13650HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-HP,32490000.0,0,1,AMD Ryzen 7 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
-HP,37990000.0,0,1,AMD Ryzen 7 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.1,Full HD
-HP,55990000.0,0,1,AMD Ryzen 9 7940HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.1,QHD
-Macbook,74990000.0,0,1,Apple M3 Pro,Apple,36.0,,SSD,1 TB,18 nhân GPU,Apple,16.2,Retina
-HP,24990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
-Macbook,83790000.0,0,1,Apple M4 Max,Apple,36.0,,SSD,1 TB,Custom GPU - 32 Cores,Apple,14.2,Retina
-Macbook,93790000.0,0,1,Apple M4 Max,Apple,36.0,,SSD,1 TB,Custom GPU - 32 Cores,Apple,16.2,Retina
-HP,28290000.0,0,1,Intel Core i5 Raptor Lake 13450HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
-Dell,57290000.0,0,1,Intel Core i7 Raptor Lake 13800H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX A500, 4 GB",Apple,15.6,Full HD
-HP,30990000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
-HP,32490000.0,0,1,Intel Core i5 Raptor Lake 13500H,Intel,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
-HP,51990000.0,0,1,AMD Ryzen 7 7840HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,QHD
-MSI,65990000.0,0,1,Intel Core i7 Raptor Lake 14700HX,Intel,32.0,DDR5,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,17.0,QHD
-HP,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
-Lenovo,106990000.0,0,1,Intel Core i9 Raptor Lake 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4090, 16 GB",Nvidia,16.0,
-MSI,12290000.0,0,1,Intel Core i5 Alder Lake 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-MSI,38990000.0,0,1,AMD Ryzen 9 8945HS,AMD,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
-Lenovo,44990000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,13.3,WUXGA
-Lenovo,26990000.0,0,1,AMD Ryzen 7 7435HS,AMD,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
-Asus,45990000.0,0,1,AMD Ryzen 9 AI HX 370,AMD,32.0,,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,
-Dell,21490000.0,0,1,Intel Core i7 Raptor Lake 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
-HP,43790000.0,0,1,Intel Core Ultra 5 Meteor Lake 135U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
-HP,48790000.0,0,1,Intel Core Ultra 7 Meteor Lake 165U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
-HP,27390000.0,0,1,AMD Ryzen 5 8640HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
-HP,33290000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,32.0,,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
-Macbook,64990000.0,0,1,Apple M4 Pro,Apple,48.0,,SSD,1 TB,Custom GPU - 16 Cores,Apple,14.2,Retina
-Macbook,64990000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,512 GB,Custom GPU - 20 Cores,Apple,16.2,Retina
-Macbook,69990000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,1 TB,Custom GPU - 20 Cores,Apple,16.2,Retina
-Macbook,42990000.0,0,1,Apple M3,Apple,24.0,,SSD,512 GB,Custom GPU - 10 Cores,Apple,15.3,Retina
-Macbook,34990000.0,0,1,Apple M2,Apple,24.0,,SSD,512 GB,Custom GPU - 8 Cores,Apple,13.6,Retina
-HP,65790000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,LPDDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,2.8K
-Lenovo,25990000.0,0,1,Snapdragon X Plus X1P 42 100,Qualcomm,16.0,LPDDR5,SSD,512 GB,Qualcomm Adreno GPU,Apple,14.0,WUXGA
-Lenovo,18990000.0,0,1,AMD Ryzen 7 7730U,AMD,16.0,LPDDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,WUXGA
-Lenovo,32990000.0,0,1,Intel Core i7 Raptor Lake 13650HX,Intel,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
-Lenovo,30090000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,WUXGA
-Lenovo,30390000.0,0,1,Intel Core Ultra 7 Meteor Lake 155U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,WUXGA
-Lenovo,28890000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
-Lenovo,26590000.0,0,1,Intel Core Ultra 5 Meteor Lake 125U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,WUXGA
-Lenovo,56390000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
-Lenovo,60190000.0,0,1,Intel Core Ultra 7 Meteor Lake 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
-Lenovo,65390000.0,0,1,Intel Core Ultra 7 Meteor Lake 165U,Intel,64.0,,SSD,1 TB,Intel Graphics,Intel,14.0,2.8K
-Lenovo,26990000.0,0,1,Intel Core Ultra 5 Meteor Lake 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
-Macbook,68790000.0,0,1,Apple M4 Pro,Apple,24.0,,SSD,512 GB,Custom GPU - 20 Cores,Apple,16.2,Retina
-Acer,25990000.0,0,1,AMD Ryzen 5 8645HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.0,WUXGA
-Asus,47990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-Asus,23990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Asus,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-Lenovo,49990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,38990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Asus,28490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,AMD Radeon RX 7600S,AMD,16.0,
+Asus,,0,1,AMD Ryzen 5- 7520U,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,13890000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Acer,10690000.0,0,1,AMD Ryzen 7- 5700U,AMD,8.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
+HP,11890000.0,0,1,Intel Core i3 Raptor Lake - 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Macbook,18190000.0,0,1,Apple M1,Apple,8.0,,SSD,256 GB,7 nhân GPU,Apple,13.3,Retina
+Asus,,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+HP,12990000.0,0,1,AMD Ryzen 5- 7430U,AMD,16.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
+Lenovo,11990000.0,0,1,AMD Ryzen 5- 7520U,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon 610M Graphics,AMD,15.6,Full HD
+Macbook,,0,1,Apple M3 - Hãng không công bố,Apple,8.0,,SSD,512 GB,10 nhân GPU,Apple,14.2,Retina
+Asus,,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+HP,12490000.0,0,1,AMD Ryzen 5- 7530U,AMD,8.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,Full HD
+Lenovo,16790000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,LPDDR5,SSD,1 TB,Intel UHD Graphics,Intel,14.0,WUXGA
+Acer,,0,1,AMD Ryzen 7- 5700U,AMD,16.0,LPDDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,WUXGA
+Macbook,,0,1,Apple M2,Apple,8.0,,SSD,256 GB,8 nhân GPU,Apple,13.6,Retina
+Asus,17490000.0,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,9190000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR5,SSD,256 GB,Intel UHD Graphics,Intel,14.0,Full HD
+HP,16790000.0,0,1,Intel Core i5 Raptor Lake - 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,12490000.0,0,1,AMD Ryzen 7- 5700U,AMD,16.0,DDR4,SSD,512 GB,AMD Radeon Graphics,AMD,15.6,Full HD
+Asus,9990000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
+Acer,9690000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
+Lenovo,21490000.0,0,1,Intel Core i5 Alder Lake- 12450HX,Intel,16.0,DDR5,SSD,,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
+Asus,,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,16.0,WUXGA
+Dell,,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+HP,18790000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,8990000.0,0,1,Intel Core i5 Tiger Lake-1135G7,Intel,8.0,DDR4,SSD,256 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,18990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,LPDDR5,SSD,1 TB,Intel UHD Graphics,Intel,15.6,Full HD
+MSI,18490000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Asus,,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,22990000.0,0,1,Intel Core i5 Alder Lake- 12450HX,Intel,24.0,,SSD,,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
+Acer,25490000.0,0,1,Intel Core i5 Raptor Lake - 13500HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,WUXGA
+MSI,,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+HP,23490000.0,0,1,Intel Core 5 Raptor Lake - 120U,Intel,16.0,DDR4,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
+Asus,14290000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,,0,1,Intel Core i5 Alder Lake- 12450HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Acer,16490000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+HP,17990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,15.6,Full HD
+Acer,9990000.0,0,1,Intel Core i3 Raptor Lake - 1315U,Intel,8.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+MSI,,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,15.6,Full HD
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,16.0,WUXGA
+Asus,,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Acer,13990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
+HP,18490000.0,0,1,AMD Ryzen 5- 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Macbook,,0,1,Apple M3 - Hãng không công bố,Apple,16.0,,SSD,256 GB,10 nhân GPU,Apple,13.6,Retina
+HP,,0,1,Intel Core i5 Alder Lake- 1240P,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,13990000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Lenovo,26490000.0,0,1,AMD Ryzen 7- 7435HS,AMD,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+MSI,13490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+Dell,21490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,16.0,WUXGA
+Asus,23490000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
+Asus,,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,16.0,3.2K
+HP,11490000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
+HP,23490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,16590000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
+MSI,17990000.0,0,1,Intel Core i7 Alder Lake- 12650H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Acer,13990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+Asus,,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,22490000.0,0,1,Intel Core i7 Alder Lake- 12700H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+HP,10790000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,14.0,Full HD
+Acer,14690000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Acer,22990000.0,0,1,Intel Core i7 Alder Lake- 12700H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
+MSI,16490000.0,0,1,AMD Ryzen 5- 7535HS,AMD,16.0,DDR5,SSD,,"AMD Radeon RX 6550M, 4 GB",AMD,15.6,Full HD
+Lenovo,27990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
+Asus,16990000.0,0,1,AMD Ryzen 5- 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Asus,24990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+Acer,18490000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+HP,18990000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Acer,15490000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+HP,11190000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Lenovo,16990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+Lenovo,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,512 GB,Intel Arc Graphics,Intel,16.0,2K
+MSI,24990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,18490000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
+HP,10290000.0,0,1,Intel Core i3 Tiger Lake-1115G4,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
+Asus,,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,20990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,12690000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,8.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,16.0,WUXGA
+Lenovo,17990000.0,0,1,Intel Core 5 Raptor Lake - 120U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,15.3,WUXGA
+MSI,27490000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,28990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Macbook,,0,1,Apple M2,Apple,16.0,,SSD,256 GB,10 nhân GPU,Apple,13.6,Retina
+HP,21390000.0,0,1,Intel Core i7 Alder Lake- 1260P,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,27290000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
+Lenovo,31490000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
+MSI,16690000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Lenovo,17490000.0,0,1,Intel Core 5 Raptor Lake - 120U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
+Acer,24490000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Dell,22490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,1 TB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Asus,,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
+HP,16990000.0,0,1,Intel Core i7 Alder Lake- 1255U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,19990000.0,0,1,AMD Ryzen 7- 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Acer,11190000.0,0,1,Intel Core i5 Tiger Lake-1155G7,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+MSI,17990000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Lenovo,21990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
+Acer,18690000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,Full HD
+Lenovo,20490000.0,0,1,Intel Core i5 Alder Lake- 12450HX,Intel,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+MSI,16790000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,19490000.0,0,1,Intel Core i5 Alder Lake- 12500H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Asus,18990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+MSI,21490000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,32.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+HP,30790000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
+Asus,18490000.0,0,1,AMD Ryzen 5- 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+MSI,36990000.0,0,1,AMD Ryzen 7- 8845HS,AMD,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
+Lenovo,,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,28990000.0,0,1,Intel Core i7 Raptor Lake - 13650HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Lenovo,25490000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,WUXGA
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,21490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Asus,24990000.0,0,1,AMD Ryzen 7- 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Acer,16490000.0,0,1,AMD Ryzen 5- 7430U,AMD,16.0,LPDDR4,SSD,1 TB,AMD Radeon Graphics,AMD,14.0,Full HD
+Asus,16490000.0,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,24990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+Asus,,0,1,Intel Core Ultra 9 Meteor Lake - 185H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+Asus,,0,1,Intel Core i5 Alder Lake- 12500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.0,WUXGA
+Lenovo,47990000.0,0,1,Intel Core i9 Raptor Lake - 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
+MSI,15490000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Lenovo,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,16.0,2K
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Acer,17690000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+HP,,0,1,Intel Core i5 Alder Lake- 1240P,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,26590000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR4,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
+Asus,30490000.0,0,1,AMD Ryzen AI 9 - HX 370,AMD,32.0,,SSD,1 TB,AMD Radeon Graphics,AMD,16.0,3.2K
+Asus,,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+Acer,21190000.0,0,1,Intel Core i7 Alder Lake- 12700H,Intel,8.0,DDR4,SSD,,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+MSI,46990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,2.8K
+Lenovo,20790000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
+Lenovo,42990000.0,0,1,Intel Core i7 Raptor Lake - 14650HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
+Asus,26990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+MSI,25990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.0,Full HD
+Dell,24990000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
+Asus,,0,1,AMD Ryzen 7- 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Acer,18990000.0,0,1,Intel Core i7 Raptor Lake - 13700H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,2.8K
+Asus,26990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+HP,16990000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,8.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
+Asus,,0,1,Intel Core i9 Raptor Lake - 13900H,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,2.8K
+Lenovo,26490000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,WUXGA
+MSI,32990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.0,2.8K
+MSI,15490000.0,0,1,AMD Ryzen 5- 7535HS,AMD,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Lenovo,41990000.0,0,1,AMD Ryzen 7- 8845HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,
+Lenovo,17490000.0,0,1,Intel Core 5 Raptor Lake - 120U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,15.6,Full HD
+Dell,27990000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA Geforce MX570A, 2 GB",Nvidia,16.0,Full HD
+Acer,18690000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,LPDDR5,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Asus,21990000.0,0,1,Intel Core i9 Raptor Lake - 13900H,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,22690000.0,0,1,AMD Ryzen 5- 7640HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
+Acer,13490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,8.0,LPDDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
+HP,17990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,15.6,Full HD
+Asus,27490000.0,0,1,AMD Ryzen 7- 7435HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+MSI,30990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,13.3,2.8K
+Lenovo,,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,14.5,2.8K
+Acer,34990000.0,0,1,Intel Core Ultra 5 Lunar Lake - 226V,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc Graphics 130V,Intel,14.0,2.8K
+Dell,22490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,1 TB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,14990000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,27690000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
+Acer,16990000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,15.6,Full HD
+Asus,27990000.0,0,1,AMD Ryzen 7- 7735HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Acer,12690000.0,0,1,Intel Core i5 Tiger Lake-1135G7,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+Asus,23990000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,14.0,2.8K
+Asus,22990000.0,0,1,AMD Ryzen 5- 7535HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Acer,23190000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Acer,21990000.0,0,1,Intel Core i7 Alder Lake- 12700H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
+Lenovo,22990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR5,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
+MSI,36990000.0,0,1,Intel Core i7 Raptor Lake - 14700HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,QHD
+MSI,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,14.0,Full HD
+Dell,23990000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,14.0,Full HD
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1334U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,18490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,18490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,8.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,33490000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,DDR5,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.2K
+MSI,28490000.0,0,1,AMD Ryzen 7- 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Lenovo,54990000.0,0,1,Intel Core i9 Raptor Lake - 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,
+Acer,39990000.0,0,1,Intel Core Ultra 7 Lunar Lake - 258V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,14.0,2.8K
+Dell,25990000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,Full HD
+HP,22690000.0,0,1,AMD Ryzen 5- 7640HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
+MSI,36990000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
+Asus,18990000.0,0,1,Intel Core i5 Alder Lake- 12500H,Intel,8.0,DDR4,SSD,512 GB,"NVIDIA GeForce RTX 3050, 4 GB",Nvidia,15.6,Full HD
+Dell,18490000.0,0,1,Intel Core i5 Raptor Lake - 1335U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Lenovo,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,24490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,Full HD
+HP,11490000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,Full HD
+Acer,25990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
+HP,11890000.0,0,1,Intel Core i3 Raptor Lake - 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Dell,16490000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+MSI,26990000.0,0,1,AMD Ryzen 7- 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Lenovo,32990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,DDR5,SSD,1 TB,Intel Arc Graphics,Intel,16.0,
+Asus,31990000.0,0,1,Snapdragon X Elite - X1E 78 100,Qualcomm,32.0,,SSD,1 TB,Qualcomm Adreno GPU,Apple,15.6,2.8K
+Lenovo,22990000.0,0,1,Snapdragon X Plus - X1P 42 100,Qualcomm,16.0,LPDDR5,SSD,512 GB,Qualcomm Adreno GPU,Apple,14.0,WUXGA
+Asus,19990000.0,0,1,Intel Core i5 Alder Lake- 12450H,Intel,8.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050Ti, 4 GB",Nvidia,15.6,Full HD
+Dell,23990000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
+HP,24990000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
+Lenovo,20590000.0,0,1,Intel Core i5 Raptor Lake - 13420H,Intel,16.0,DDR5,SSD,512 GB,Intel UHD Graphics,Intel,16.0,WUXGA
+MSI,28490000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Dell,31990000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
+Dell,16990000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+Dell,29490000.0,0,1,Intel Core 5 Raptor Lake - 120U,Intel,16.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,Full HD
+Asus,28990000.0,0,1,AMD Ryzen 7- 8845HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Acer,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,2.8K
+HP,33890000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,32.0,,SSD,1 TB,Intel Graphics,Intel,14.0,2.8K
+HP,28990000.0,0,1,AMD Ryzen 7- 8840HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
+Dell,31490000.0,0,1,Intel Core 7 Raptor Lake - 150U,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA Geforce MX570A, 2 GB",Nvidia,16.0,2.5K
+Dell,54990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,LPDDR5,SSD,1 TB,Intel Arc Graphics,Intel,13.4,QHD
+Lenovo,32990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
+HP,34790000.0,0,1,Intel Core i7 Raptor Lake - 13700H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
+HP,51790000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+HP,34990000.0,0,1,AMD Ryzen 7- 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
+MSI,66490000.0,0,1,Intel Core Ultra 9 Meteor Lake - 185H,Intel,32.0,DDR5,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,
+Asus,43990000.0,0,1,Intel Core Ultra 7 Lunar Lake - 258V,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+HP,12590000.0,0,1,Intel Core i3 Raptor Lake - 1315U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,15.6,Full HD
+MSI,41990000.0,0,1,Intel Core i7 Raptor Lake - 14700HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.0,QHD
+Lenovo,44290000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,32.0,,SSD,512 GB,Intel Iris Xe Graphics,Intel,14.0,WUXGA
+HP,26790000.0,0,1,AMD Ryzen 5- 8640HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
+Dell,40990000.0,0,1,Intel Core i9 Raptor Lake - 13900HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Macbook,27690000.0,0,1,Apple M3 - Hãng không công bố,Apple,16.0,,SSD,256 GB,8 nhân GPU,Apple,13.6,Retina
+HP,22990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
+HP,24990000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
+MSI,27490000.0,0,1,Intel Core i7 Raptor Lake - 13620H,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Asus,40990000.0,0,1,AMD Ryzen AI 9 - HX 370,AMD,16.0,LPDDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,QHD
+HP,28990000.0,0,1,AMD Ryzen 7- 7840HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.1,Full HD
+HP,30990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
+MSI,36990000.0,0,1,Intel Core Ultra 7 Lunar Lake - 258V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,13.3,2.8K
+Asus,,0,1,Intel Core Ultra 9 Meteor Lake - 185H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+MSI,43990000.0,0,1,Intel Core Ultra 9 Lunar Lake - 288V,Intel,32.0,,SSD,1 TB,Intel Arc 140V,Intel,16.0,4K/UHD
+Dell,,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,2 TB,Intel Arc Graphics,Intel,13.4,QHD
+MSI,69990000.0,0,1,AMD Ryzen AI 9 - HX 370,AMD,32.0,,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.0,4K/UHD
+Macbook,49990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,512 GB,16 nhân GPU,Apple,14.2,Retina
+Macbook,53790000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,512 GB,16 nhân GPU,Apple,14.2,Retina
+Macbook,54990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,1 TB,16 nhân GPU,Apple,14.2,Retina
+Macbook,37990000.0,0,1,Apple M3 - Hãng không công bố,Apple,24.0,,SSD,512 GB,8 nhân GPU,Apple,13.6,Retina
+Acer,13490000.0,0,1,Intel Core i3 Alder Lake-1215U,Intel,8.0,DDR4,SSD,256 GB,Intel UHD Graphics,Intel,15.6,Full HD
+Macbook,59990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,48.0,,SSD,512 GB,16 nhân GPU,Apple,14.2,Retina
+Macbook,79990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,48.0,,SSD,1 TB,20 nhân GPU,Apple,16.2,Retina
+HP,19990000.0,0,1,Intel Core i7 Alder Lake- 1255U,Intel,8.0,DDR4,SSD,512 GB,NVIDIA GeForce MX550 2 GB,Apple,15.6,Full HD
+Macbook,,0,1,Apple M3 - Hãng không công bố,Apple,16.0,,SSD,256 GB,10 nhân GPU,Apple,15.3,Retina
+Asus,11490000.0,0,1,Intel Core i3 Raptor Lake - 1315U,Intel,8.0,DDR4,SSD,512 GB,Intel UHD Graphics,Intel,14.0,WUXGA
+Dell,27990000.0,0,1,Intel Core i5 Raptor Lake - 1340P,Intel,16.0,LPDDR5,SSD,512 GB,"NVIDIA GeForce RTX 2050, 4 GB",Nvidia,14.0,QHD
+Dell,36990000.0,0,1,Intel Core i7 Raptor Lake - 13650HX,Intel,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+HP,32490000.0,0,1,AMD Ryzen 7- 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
+HP,37990000.0,0,1,AMD Ryzen 7- 7840HS,AMD,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.1,Full HD
+HP,55990000.0,0,1,AMD Ryzen 9 - 7940HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,16.1,QHD
+Macbook,74990000.0,0,1,Apple M3 Pro - Hãng không công bố,Apple,36.0,,SSD,1 TB,18 nhân GPU,Apple,16.2,Retina
+HP,24990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
+Macbook,83790000.0,0,1,Apple M4 Max - Hãng không công bố,Apple,36.0,,SSD,1 TB,32 nhân GPU,Apple,14.2,Retina
+Macbook,93790000.0,0,1,Apple M4 Max - Hãng không công bố,Apple,36.0,,SSD,1 TB,32 nhân GPU,Apple,16.2,Retina
+HP,28290000.0,0,1,Intel Core i5 Raptor Lake - 13450HX,Intel,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
+Dell,57290000.0,0,1,Intel Core i7 Raptor Lake - 13800H,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX A500, 4 GB",Apple,15.6,Full HD
+HP,30990000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,16.1,Full HD
+HP,32490000.0,0,1,Intel Core i5 Raptor Lake - 13500H,Intel,32.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,Full HD
+HP,51990000.0,0,1,AMD Ryzen 7- 7840HS,AMD,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,16.1,QHD
+MSI,65990000.0,0,1,Intel Core i7 Raptor Lake - 14700HX,Intel,32.0,DDR5,SSD,2 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,17.0,QHD
+HP,26990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,16.0,DDR5,SSD,512 GB,Intel Graphics,Intel,16.0,WUXGA
+Lenovo,106990000.0,0,1,Intel Core i9 Raptor Lake - 14900HX,Intel,32.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4090, 16 GB",Nvidia,16.0,
+MSI,12290000.0,0,1,Intel Core i5 Alder Lake- 1235U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+MSI,38990000.0,0,1,AMD Ryzen 9 - 8945HS,AMD,16.0,DDR5,SSD,1 TB,"NVIDIA GeForce RTX 4070, 8 GB",Nvidia,15.6,Full HD
+Lenovo,44990000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,13.3,WUXGA
+Lenovo,26990000.0,0,1,AMD Ryzen 7- 7435HS,AMD,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,15.6,Full HD
+Asus,45990000.0,0,1,AMD Ryzen AI 9 - HX 370,AMD,32.0,,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,
+Dell,21490000.0,0,1,Intel Core i7 Raptor Lake - 1355U,Intel,16.0,DDR4,SSD,512 GB,Intel Iris Xe Graphics,Intel,15.6,Full HD
+HP,43790000.0,0,1,Intel Core Ultra 5 Meteor Lake - 135U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
+HP,48790000.0,0,1,Intel Core Ultra 7 Meteor Lake - 165U,Intel,16.0,LPDDR5,SSD,512 GB,Intel Graphics,Intel,13.3,WUXGA
+HP,27390000.0,0,1,AMD Ryzen 5- 8640HS,AMD,16.0,LPDDR5,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,2.8K
+HP,33290000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,32.0,,SSD,512 GB,Intel Graphics,Intel,14.0,2.8K
+Macbook,64990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,48.0,,SSD,1 TB,16 nhân GPU,Apple,14.2,Retina
+Macbook,64990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,512 GB,20 nhân GPU,Apple,16.2,Retina
+Macbook,69990000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,1 TB,20 nhân GPU,Apple,16.2,Retina
+Macbook,42990000.0,0,1,Apple M3 - Hãng không công bố,Apple,24.0,,SSD,512 GB,10 nhân GPU,Apple,15.3,Retina
+Macbook,34990000.0,0,1,Apple M2- Hãng không công bố,Apple,24.0,,SSD,512 GB,8 nhân GPU,Apple,13.6,Retina
+HP,65790000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,LPDDR5,SSD,1 TB,"NVIDIA GeForce RTX 4060, 8 GB",Nvidia,14.0,2.8K
+Lenovo,25990000.0,0,1,Snapdragon X Plus - X1P 42 100,Qualcomm,16.0,LPDDR5,SSD,512 GB,Qualcomm Adreno GPU,Apple,14.0,WUXGA
+Lenovo,18990000.0,0,1,AMD Ryzen 7- 7730U,AMD,16.0,LPDDR4,SSD,512 GB,AMD Radeon Graphics,AMD,14.0,WUXGA
+Lenovo,32990000.0,0,1,Intel Core i7 Raptor Lake - 13650HX,Intel,24.0,,SSD,512 GB,"NVIDIA GeForce RTX 4050, 6 GB",Nvidia,15.6,Full HD
+Lenovo,30090000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,14.0,WUXGA
+Lenovo,30390000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,WUXGA
+Lenovo,28890000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,16.0,DDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
+Lenovo,26590000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125U,Intel,32.0,DDR5,SSD,1 TB,Intel Graphics,Intel,16.0,WUXGA
+Lenovo,56390000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,WUXGA
+Lenovo,60190000.0,0,1,Intel Core Ultra 7 Meteor Lake - 155H,Intel,32.0,,SSD,1 TB,Intel Arc Graphics,Intel,14.0,2.8K
+Lenovo,65390000.0,0,1,Intel Core Ultra 7 Meteor Lake - 165U,Intel,64.0,,SSD,1 TB,Intel Graphics,Intel,14.0,2.8K
+Lenovo,26990000.0,0,1,Intel Core Ultra 5 Meteor Lake - 125H,Intel,16.0,LPDDR5,SSD,512 GB,Intel Arc Graphics,Intel,14.0,WUXGA
+Macbook,68790000.0,0,1,Apple M4 Pro - Hãng không công bố,Apple,24.0,,SSD,512 GB,20 nhân GPU,Apple,16.2,Retina
+Acer,25990000.0,0,1,AMD Ryzen 5- 8645HS,AMD,16.0,DDR5,SSD,512 GB,"NVIDIA GeForce RTX 3050, 6 GB",Nvidia,16.0,WUXGA
+Asus,47990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+Asus,23990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Asus,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+Lenovo,49990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,38990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Asus,28490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,AMD Radeon RX7600S 8GB GDDR6,AMD,16.0,
 Asus,54990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX  4060 8GB GDDR6,Nvidia,16.0,HD
-Lenovo,24490000.0,0,1,AMD Ryzen 57235HS,AMD,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Asus,21990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
+Lenovo,24490000.0,0,1,AMD Ryzen 57235HS,AMD,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Asus,21990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
 Lenovo,44990000.0,0,1,AMD Ryzen 78845HS,AMD,32.0,DDR5,SSD,1TB,NNVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
-Dell,36990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,14.0,HD
-Asus,20990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,16.0,HD
-Lenovo,21990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Asus,46990000.0,0,1,AMD Ryzen 98945HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.0,OLED
-Lenovo,28990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,15.6,HD
-Acer,36490000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
+Dell,36990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,HD
+Asus,20990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,16.0,HD
+Lenovo,21990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Asus,46990000.0,0,1,AMD Ryzen 98945HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,OLED
+Lenovo,28990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,15.6,HD
+Acer,36490000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
 Dell,60990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,512GB,NVIDIA RTX 2000 Ada,Nvidia,15.6,HD
-Asus,41990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,15.6,HD
-Acer,,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Asus,49990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Asus,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-Asus,50990000.0,0,1,AMD Ryzen 98945HS,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,OLED
-Asus,30990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-Asus,32990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-Asus,45990000.0,0,1,AMD Ryzen 98945HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.0,OLED
-Asus,67990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,OLED
-Asus,59990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,OLED
-Asus,51990000.0,0,1,AMD Ryzen 98945HS,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,OLED
-Acer,22990000.0,0,1,AMD Ryzen 56600H,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-MSI,45990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
+Asus,41990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6 140W TGP,Nvidia,15.6,HD
+Acer,,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Asus,49990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Asus,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+Asus,50990000.0,0,1,AMD Ryzen 98945HS,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,OLED
+Asus,30990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+Asus,32990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+Asus,45990000.0,0,1,AMD Ryzen 98945HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,OLED
+Asus,67990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,OLED
+Asus,59990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,OLED
+Asus,51990000.0,0,1,AMD Ryzen 98945HS,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,OLED
+Acer,22990000.0,0,1,AMD Ryzen 56600H,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+MSI,45990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
 Dell,46990000.0,0,1,Intel Core Ultra 7 165H vPro Enterprise,Intel,16.0,DDR5,SSD,512GB,Intel Graphics,Intel,15.6,HD
-Acer,25990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,24990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,23990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
+Acer,25990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,24990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Acer,23990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
 HP,17990000.0,0,1,AMD Ryzen 57535HS,AMD,8.0,DDR5,SSD,512GB,AMD Radeon RX 6550M 4GB,AMD,15.6,HD
-MSI,72490000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4060,Nvidia,18.0,HD
-MSI,37990000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
+MSI,72490000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,18.0,HD
+MSI,37990000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
 MSI,51990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NNVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,17.0,HD
 MSI,33990000.0,0,1,Intel Core i712700H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3060 6GB GDDR6,Nvidia,15.6,HD
-Asus,66990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,OLED
-Asus,114990000.0,0,1,Intel Core i914900HX,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090,Nvidia,18.0,HD
-Asus,87990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-Asus,51990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,18.0,HD
-Asus,58990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,18.0,HD
-Asus,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,18.0,IPS
-Asus,56990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Asus,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Lenovo,18990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Lenovo,19990000.0,0,1,AMD Ryzen 57235HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,67990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,2K
-Acer,35990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,32990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
+Asus,66990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,OLED
+Asus,114990000.0,0,1,Intel Core i914900HX,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,18.0,HD
+Asus,87990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,HD
+Asus,51990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,18.0,HD
+Asus,58990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,18.0,HD
+Asus,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,18.0,IPS
+Asus,56990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Asus,40990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Asus,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Lenovo,18990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Lenovo,19990000.0,0,1,AMD Ryzen 57235HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Acer,67990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,2K
+Acer,35990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,32990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
 HP,62990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 2000 Ada 8GB GDDR6,Nvidia,16.0,IPS
-HP,31690000.0,0,1,Intel Core i514450HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,32290000.0,0,1,Intel Core i514450HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,21990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,27990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,32990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,41990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Acer,22990000.0,0,1,AMD Ryzen 57535HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Asus,40990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Dell,79990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,IPS
-Asus,47990000.0,0,1,Intel Core Ultra 9 185H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,OLED
-Lenovo,20990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,52490000.0,0,1,Intel Core  Ultra 7 155H,Intel,32.0,DDR5,,2TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,38990000.0,0,1,AMD Ryzen 97945HX,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Asus,23490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Lenovo,24990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Acer,36990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,2K
-Acer,34990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,46990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,
+HP,31690000.0,0,1,Intel Core i514450HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.1,HD
+HP,32290000.0,0,1,Intel Core i514450HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.1,HD
+HP,21990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,27990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Acer,32990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,41990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+Acer,22990000.0,0,1,AMD Ryzen 57535HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Asus,40990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+Dell,79990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,HD
+Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,IPS
+Asus,47990000.0,0,1,Intel Core Ultra 9 185H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,OLED
+Lenovo,20990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Acer,52490000.0,0,1,Intel Core  Ultra 7 155H,Intel,32.0,DDR5,,2TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,38990000.0,0,1,AMD Ryzen 97945HX,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Asus,23490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Lenovo,24990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Acer,36990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,2K
+Acer,34990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,46990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,
 MSI,36990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GBGDDR6,Nvidia,16.0,
 Lenovo,30990000.0,0,1,AMD Ryzen 78745H,AMD,16.0,DDR5,SSD,512GB,NVIDIAGeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
-Acer,46990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Asus,120000000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090,Nvidia,16.0,HD
-Lenovo,69990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,IPS
-Lenovo,47990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Lenovo,35990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Lenovo,23990000.0,0,1,AMD Ryzen 57235HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Dell,30990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Lenovo,27990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,28490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Asus,81990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,OLED
-Asus,46990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,IPS
-Asus,44990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,IPS
+Acer,46990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Asus,120000000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,16.0,HD
+Lenovo,69990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,IPS
+Lenovo,47990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,35990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,23990000.0,0,1,AMD Ryzen 57235HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Dell,30990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,27990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Asus,28490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Asus,81990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,OLED
+Asus,46990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,IPS
+Asus,44990000.0,0,1,AMD Ryzen AI 9 HX 370,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,IPS
 Asus,24990000.0,0,1,AMD Ryzen 77735HS,AMD,16.0,DDR5,SSD,512GB,AMD Radeon RX 7700S,AMD,16.0,
 MSI,102990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-Lenovo,31990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Lenovo,33990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Lenovo,37990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,32990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,22990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Asus,28490000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-Asus,24990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.0,HD
-Acer,27490000.0,0,1,AMD Ryzen 58645HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.0,IPS
-Acer,28790000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.0,IPS
-Acer,31990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Acer,34990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Dell,27990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Lenovo,25990000.0,0,1,Intel Core i513450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
+Lenovo,31990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,33990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,37990000.0,0,1,Intel Core i713650HX,Intel,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Asus,32990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6 140W TGP,Nvidia,15.6,HD
+Asus,22990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Asus,28490000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+Asus,24990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,16.0,HD
+Acer,27490000.0,0,1,AMD Ryzen 58645HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.0,IPS
+Acer,28790000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.0,IPS
+Acer,31990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Acer,34990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Dell,27990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Lenovo,25990000.0,0,1,Intel Core i513450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
 MSI,70990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Asus,57990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,13.4,HD
+Asus,57990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,13.4,HD
 Asus,29990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6 140W TGP,Nvidia,15.6,HD
-Asus,30990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Acer,36990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Dell,26990000.0,0,1,Intel Core i513450HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Asus,30490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Acer,26990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Acer,22990000.0,0,1,Intel Core i513420H,Intel,32.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,22990000.0,0,1,AMD Ryzen 57535HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,49990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.5,TFT
-Acer,59990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,14.5,TFT
-Acer,59900000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Asus,46990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-HP,34190000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,34190000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,35490000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.1,HD
-HP,35490000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.1,HD
-HP,39890000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.1,HD
-HP,45890000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,16.1,HD
-HP,36290000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.1,HD
-HP,36290000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.1,HD
-HP,38790000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.1,HD
-HP,33790000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,36490000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.1,HD
-HP,44190000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.1,HD
-HP,39990000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.1,HD
-Lenovo,27490000.0,0,1,AMD Ryzen 77435HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,139990000.0,0,1,Intel Core i914900HX,Intel,128.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090,Nvidia,18.0,HD
-Lenovo,141990000.0,0,1,Intel Core i914900HX,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090,Nvidia,16.0,2K
-Asus,55990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Dell,48990000.0,0,1,Intel Core i913900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Dell,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Acer,28990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,27590000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-MSI,26090000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Acer,21490000.0,0,1,Intel Core i513420H,Intel,16.0,DDR4,,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,26990000.0,0,1,Intel Core i512450H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Acer,23990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,34990000.0,0,1,Intel Core i514500HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,2K
-Acer,36990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,2K
-Acer,40990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,2K
-Lenovo,38990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Lenovo,31490000.0,0,1,AMD Ryzen 77435HS,AMD,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Dell,46990000.0,0,1,Intel Core i913900HX,Intel,32.0,,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,27990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,14.0,HD
-MSI,39990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,15.6,HD
-MSI,39990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-MSI,51990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,8K
-Acer,32990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,44990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-Dell,28990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,2K
-Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,2K
+Asus,30990000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Acer,36990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Dell,26990000.0,0,1,Intel Core i513450HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Asus,30490000.0,0,1,AMD Ryzen 77435HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Acer,26990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Acer,22990000.0,0,1,Intel Core i513420H,Intel,32.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,22990000.0,0,1,AMD Ryzen 57535HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,49990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.5,TFT
+Acer,59990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,14.5,TFT
+Acer,59900000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Asus,46990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+HP,34190000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.1,HD
+HP,34190000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.1,HD
+HP,35490000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.1,HD
+HP,35490000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.1,HD
+HP,39890000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.1,HD
+HP,45890000.0,0,1,Intel Core i713700H,Intel,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.1,HD
+HP,36290000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.1,HD
+HP,36290000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.1,HD
+HP,38790000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.1,HD
+HP,33790000.0,0,1,AMD Ryzen 5 7640HS,AMD,32.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,16.1,HD
+HP,36490000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.1,HD
+HP,44190000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.1,HD
+HP,39990000.0,0,1,Intel Core i714650HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.1,HD
+Lenovo,27490000.0,0,1,AMD Ryzen 77435HS,AMD,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,139990000.0,0,1,Intel Core i914900HX,Intel,128.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,18.0,HD
+Lenovo,141990000.0,0,1,Intel Core i914900HX,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,16.0,2K
+Asus,55990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+Dell,48990000.0,0,1,Intel Core i913900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Dell,42990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Acer,28990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,27590000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+MSI,26090000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Acer,21490000.0,0,1,Intel Core i513420H,Intel,16.0,DDR4,,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,26990000.0,0,1,Intel Core i512450H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Acer,23990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Acer,34990000.0,0,1,Intel Core i514500HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,2K
+Acer,36990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,2K
+Acer,40990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,2K
+Lenovo,38990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,31490000.0,0,1,AMD Ryzen 77435HS,AMD,24.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Dell,46990000.0,0,1,Intel Core i913900HX,Intel,32.0,,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,27990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,HD
+MSI,39990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,15.6,HD
+MSI,39990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+MSI,51990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,8K
+Acer,32990000.0,0,1,Intel Core i913900H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Asus,44990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+Dell,28990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,2K
+Lenovo,66990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,2K
 Lenovo,41990000.0,0,1,AMD Ryzen 78845HS,AMD,16.0,DDR5,SSD,512GB,NNVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
-MSI,21990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,51990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Acer,56990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Dell,23990000.0,0,1,Intel Core i513450HX,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Lenovo,27990000.0,0,1,Intel Core i512450HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Asus,40990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,15.6,HD
-Lenovo,37990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,42990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,35990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,33990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Lenovo,45990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,88990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,IPS
-Acer,78990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,2K
-Acer,104990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,4TB,NVIDIA GeForce RTX 4090,Nvidia,18.0,2K
-MSI,45990000.0,0,1,Intel Core i714700HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-MSI,89990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,HD
-MSI,109990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090,Nvidia,16.0,HD
-MSI,17990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-MSI,20990000.0,0,1,AMD Ryzen 57535HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-MSI,21990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-MSI,29990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,30990000.0,0,1,AMD Ryzen 78840H,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,59990000.0,0,1,Intel Core i913980HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,HD
-MSI,64990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-MSI,94990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-Lenovo,21490000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-MSI,51990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,17.0,HD
-MSI,79990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,18.0,HD
-MSI,92990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-MSI,28990000.0,0,1,AMD Ryzen 78845HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,39990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-MSI,49990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,14.0,8K
-HP,,0,1,Intel Core Ultra 9 185H,Intel,16.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,14.0,8K
-MSI,23990000.0,0,1,AMD Ryzen 57535HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,30990000.0,0,1,Intel Core Ultra 7 155H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Lenovo,23990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-MSI,19990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,24990000.0,0,1,Intel Core i512450H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Lenovo,43990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Lenovo,56990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Lenovo,106990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4090,Nvidia,16.0,IPS
-Acer,49990000.0,0,1,Intel Core i713700HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070,Nvidia,16.0,IPS
-Acer,25990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,21490000.0,0,1,Intel Core i513420H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,20490000.0,0,1,Intel Core i513420H,Intel,8.0,DDR4,,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Dell,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Acer,34990000.0,0,1,Intel Core i713700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
+MSI,21990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Acer,51990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Acer,56990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Dell,23990000.0,0,1,Intel Core i513450HX,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+Lenovo,27990000.0,0,1,Intel Core i512450HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Asus,40990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,15.6,HD
+Lenovo,37990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,42990000.0,0,1,Intel Core i914900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,35990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,33990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Lenovo,45990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,88990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,IPS
+Acer,78990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,2K
+Acer,104990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,4TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,18.0,2K
+MSI,45990000.0,0,1,Intel Core i714700HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+MSI,89990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,HD
+MSI,109990000.0,0,1,Intel Core Ultra 9 185H,Intel,64.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,16.0,HD
+MSI,17990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+MSI,20990000.0,0,1,AMD Ryzen 57535HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+MSI,21990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+MSI,29990000.0,0,1,Intel Core i713620H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,30990000.0,0,1,AMD Ryzen 78840H,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,59990000.0,0,1,Intel Core i913980HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,HD
+MSI,64990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+MSI,94990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,HD
+Lenovo,21490000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+MSI,51990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,17.0,HD
+MSI,79990000.0,0,1,Intel Core Ultra 9 185H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,18.0,HD
+MSI,92990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,HD
+MSI,28990000.0,0,1,AMD Ryzen 78845HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,39990000.0,0,1,Intel Core i714700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+MSI,49990000.0,0,1,Intel Core Ultra 7 155H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,14.0,8K
+HP,,0,1,Intel Core Ultra 9 185H,Intel,16.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,14.0,8K
+MSI,23990000.0,0,1,AMD Ryzen 57535HS,AMD,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,30990000.0,0,1,Intel Core Ultra 7 155H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Lenovo,23990000.0,0,1,Intel Core i512450HX,Intel,12.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+MSI,19990000.0,0,1,Intel Core i512450H,Intel,512.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,24990000.0,0,1,Intel Core i512450H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Lenovo,43990000.0,0,1,Intel Core i714650HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,56990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Lenovo,106990000.0,0,1,Intel Core i914900HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4090 16GB GDDR6,Nvidia,16.0,IPS
+Acer,49990000.0,0,1,Intel Core i713700HX,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,IPS
+Acer,25990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,21490000.0,0,1,Intel Core i513420H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,20490000.0,0,1,Intel Core i513420H,Intel,8.0,DDR4,,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Dell,38990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Acer,34990000.0,0,1,Intel Core i713700HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
 Lenovo,29990000.0,0,1,AMD Ryzen 77840H,AMD,16.0,DDR5,SSD,512GB,NVIDIAGeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
-MSI,26290000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,23290000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
+MSI,26290000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,23290000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
 Asus,28990000.0,0,1,Intel Core i713620H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6 140W TGP,Nvidia,15.6,HD
-Acer,37990000.0,0,1,Intel Core i913900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Acer,30990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,48990000.0,0,1,Intel Core i913900H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,17.3,HD
-MSI,61990000.0,0,1,Intel Core i913950HX,Intel,16.0,,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,HD
+Acer,37990000.0,0,1,Intel Core i913900HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Acer,30990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,48990000.0,0,1,Intel Core i913900H,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,17.3,HD
+MSI,61990000.0,0,1,Intel Core i913950HX,Intel,16.0,,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,HD
 Dell,87990000.0,0,1,Intel Core i913950HX,Intel,32.0,DDR5,,1TB,NVIDIA GeForce RTX 2000 8GB GDDR6,Nvidia,16.0,HD
 Dell,80990000.0,0,1,Intel Core i713850HX,Intel,32.0,DDR5,,1TB,NVIDIA GeForce RTX 2000 8GB GDDR6,Nvidia,16.0,HD
 Dell,99990000.0,0,1,Intel Core i913900H i913900H,Intel,32.0,DDR5,SSD,1TB,NVIDIA RTX 2000 Ada 8GB,Nvidia,16.0,HD
 Dell,53990000.0,0,1,Intel Core i713800H,Intel,32.0,DDR5,SSD,1TB,NVIDIA RTX A500,Apple,15.6,HD
 Dell,56990000.0,0,1,Intel Core i713800H,Intel,32.0,DDR5,SSD,1TB,NVIDIA RTX A1000,Apple,15.6,HD
-Asus,31990000.0,0,1,AMD Ryzen 77735HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
+Asus,31990000.0,0,1,AMD Ryzen 77735HS,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6 140W TGP,Nvidia,15.6,HD
 Dell,49990000.0,0,1,Intel Core i71370P,Intel,32.0,,,1TB,NVIDIA RTX A500,Apple,14.0,HD
 Dell,74990000.0,0,1,Intel Core i713850HX,Intel,16.0,,,512GB,NVIDIA RTX 2000 Ada 8GB,Nvidia,16.0,HD
 Dell,78799000.0,0,1,Intel Core i713800H,Intel,16.0,DDR5,SSD,512GB,NVIDIA RTX A1000,Apple,16.0,HD
 Dell,84799000.0,0,1,Intel Core i713800H,Intel,16.0,DDR5,SSD,512GB,NVIDIA RTX 2000 Ada 8GB,Nvidia,16.0,HD
 Dell,44490000.0,0,1,Intel Core i713800H,Intel,16.0,DDR5,SSD,512GB,NVIDIA RTX A500,Apple,15.6,HD
-HP,22990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-MSI,62990000.0,0,1,Intel Core i913950HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-Dell,27990000.0,0,1,Intel Core i713650HX,Intel,8.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-HP,20990000.0,0,1,AMD Ryzen 57535HS,AMD,8.0,DDR5,SSD,,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-HP,25490000.0,0,1,AMD Ryzen 57535HS,AMD,16.0,DDR5,SSD,,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Acer,27990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,23790000.0,0,1,Intel Core i513500H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,27990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,29900000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,HD
-Asus,24999000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Dell,31990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,69990000.0,0,1,Intel Core i913980HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,HD
-Acer,25690000.0,0,1,Intel Core i712650H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-Lenovo,38990000.0,0,1,AMD Ryzen 97945HX,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-HP,31290000.0,0,1,Intel Core i713620H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-HP,32290000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-HP,32690000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-HP,38390000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.1,HD
-HP,33990000.0,0,1,Intel Core i713700H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-HP,27390000.0,0,1,AMD Ryzen 57640HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-MSI,34990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050,Nvidia,14.0,8K
-Acer,35990000.0,0,1,AMD Ryzen 77840HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
+HP,22990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+MSI,62990000.0,0,1,Intel Core i913950HX,Intel,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,16.0,HD
+Dell,27990000.0,0,1,Intel Core i713650HX,Intel,8.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+HP,20990000.0,0,1,AMD Ryzen 57535HS,AMD,8.0,DDR5,SSD,,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+HP,25490000.0,0,1,AMD Ryzen 57535HS,AMD,16.0,DDR5,SSD,,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Acer,27990000.0,0,1,Intel Core i513420H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,23790000.0,0,1,Intel Core i513500H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,27990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,29900000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,HD
+Asus,24999000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Dell,31990000.0,0,1,Intel Core i713650HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Asus,69990000.0,0,1,Intel Core i913980HX,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,HD
+Acer,25690000.0,0,1,Intel Core i712650H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+Lenovo,38990000.0,0,1,AMD Ryzen 97945HX,AMD,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+HP,31290000.0,0,1,Intel Core i713620H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+HP,32290000.0,0,1,Intel Core i713620H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 6GB GDDR6,Nvidia,15.6,HD
+HP,32690000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,16.1,HD
+HP,38390000.0,0,1,Intel Core i713700H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.1,HD
+HP,33990000.0,0,1,Intel Core i713700H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+HP,27390000.0,0,1,AMD Ryzen 57640HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,16.1,HD
+MSI,34990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,14.0,8K
+Acer,35990000.0,0,1,AMD Ryzen 77840HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
 MSI,80990000.0,0,1,Intel Core i913900H,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4070,Nvidia,16.0,HD
-HP,31690000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,16.1,HD
-Acer,39990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Acer,42490000.0,0,1,AMD Ryzen 97940HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,16.0,IPS
-Acer,30990000.0,0,1,AMD Ryzen 57640HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,IPS
-Acer,22990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
-Acer,21490000.0,0,1,Intel Core i512450H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050,Nvidia,15.6,HD
-MSI,41990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070,Nvidia,15.6,HD
+HP,31690000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,16.1,HD
+Acer,39990000.0,0,1,AMD Ryzen 77840HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Acer,42490000.0,0,1,AMD Ryzen 97940HS,AMD,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,16.0,IPS
+Acer,30990000.0,0,1,AMD Ryzen 57640HS,AMD,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,IPS
+Acer,22990000.0,0,1,Intel Core i512450H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
+Acer,21490000.0,0,1,Intel Core i512450H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 2050 4GB GDDR6,Nvidia,15.6,HD
+MSI,41990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4070 8GB GDDR6,Nvidia,15.6,HD
 Acer,33790000.0,0,1,Intel Core i712700H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 Ti,Nvidia,15.6,HD
 Acer,35990000.0,0,1,Intel Core i512500H,Intel,16.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 3060 6GB GDDR6,Nvidia,15.6,HD
-Asus,112990000.0,0,1,AMD Ryzen 97945HX,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,HD
-Acer,35490000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,17.3,HD
-MSI,27990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-MSI,28990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-MSI,25890000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Dell,41190000.0,0,1,Intel Core i713650HX,Intel,32.0,,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,15.6,HD
-Dell,42990000.0,0,1,Intel Core i713650HX,Intel,32.0,,SSD,512GB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Asus,33990000.0,0,1,Intel Core i513450HX,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050,Nvidia,16.0,HD
-Acer,102990000.0,0,1,Intel Core i913900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,16.0,TFT
-Acer,104990000.0,0,1,Intel Core i913900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080,Nvidia,18.0,TFT
-MSI,31990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060,Nvidia,15.6,HD
-Acer,29490000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050,Nvidia,15.6,HD
+Asus,112990000.0,0,1,AMD Ryzen 97945HX,AMD,32.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,HD
+Acer,35490000.0,0,1,Intel Core i513500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,17.3,HD
+MSI,27990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+MSI,28990000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+MSI,25890000.0,0,1,Intel Core i512500H,Intel,16.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Dell,41190000.0,0,1,Intel Core i713650HX,Intel,32.0,,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,15.6,HD
+Dell,42990000.0,0,1,Intel Core i713650HX,Intel,32.0,,SSD,512GB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Asus,33990000.0,0,1,Intel Core i513450HX,Intel,8.0,DDR5,SSD,512GB,NVIDIA GeForce RTX 4050 6GB GDDR6,Nvidia,16.0,HD
+Acer,102990000.0,0,1,Intel Core i913900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,16.0,TFT
+Acer,104990000.0,0,1,Intel Core i913900HX,Intel,32.0,DDR5,SSD,2TB,NVIDIA GeForce RTX 4080 12GB GDDR6,Nvidia,18.0,TFT
+MSI,31990000.0,0,1,Intel Core i713620H,Intel,16.0,DDR5,SSD,1TB,NVIDIA GeForce RTX 4060 8GB GDDR6,Nvidia,15.6,HD
+Acer,29490000.0,0,1,Intel Core i512500H,Intel,8.0,DDR4,SSD,512GB,NVIDIA GeForce RTX 3050 4GB GDDR6,Nvidia,15.6,HD
