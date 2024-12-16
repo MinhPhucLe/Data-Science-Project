@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'LaptopPricePredictor.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'superset',
+        'NAME': 'data_science',
         'USER': 'superset',
         'PASSWORD': 'superset',
         'HOST': '127.0.0.1',

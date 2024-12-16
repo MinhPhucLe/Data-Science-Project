@@ -65,10 +65,12 @@
             let laptopInfoHtml = '';
             formData.forEach(function(field) {
                 if (field.name !== 'csrfmiddlewaretoken') {
+                    let value = $(`#select2-id_${field.name}-container`).text()
+                     if(field.name === "screen_size") value = $('#id_screen_size').val()
                     laptopInfoHtml += `
                         <div class="laptop-info-item">
                             <strong>${field.name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}:</strong>
-                            ${field.value || 'Not specified'}
+                            ${value}
                         </div>
                     `;
                 }

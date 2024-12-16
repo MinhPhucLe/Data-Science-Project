@@ -1,31 +1,50 @@
 from django import forms
+from sklearn.preprocessing import LabelEncoder
+from app.models import Laptop
+
+fields_to_check = [
+    "brand", "cpu", "cpu_brand", "ram_capacity", "ram_brand",
+    "hard_drive_type", "hard_drive_capacity", "card", "card_brand",
+    "screen_size", "screen_type"
+]
+
+# Function to get unique values and their encoded labels
+def get_unique_values_with_encoding():
+    unique_values_with_encoding = {}
+
+    for field in fields_to_check:
+        # Exclude null and blank values and retrieve distinct values
+        values = (
+            Laptop.objects.exclude(**{f"{field}__isnull": True})
+            .exclude(**{f"{field}": ""})
+            .values_list(field, flat=True)
+            .distinct()
+        )
+
+        # Apply Label Encoding
+        label_encoder = LabelEncoder()
+        encoded_values = label_encoder.fit_transform(list(values))
+
+        # Store the original value along with its encoded value
+        unique_values_with_encoding[field] = list(zip(encoded_values, values))
+
+    return unique_values_with_encoding
 
 class LaptopPredictionForm(forms.Form):
-    """ brand, cpu, cpu_brand, ram_capacity, ram_brand, hard_drive_type, hard_drive_capacity, card,
-    card_brand, screen_size, screen_type """
-    BRAND_CHOICES = [
-        ('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')
-    ]
+    # Fetch unique values
+    unique_values = get_unique_values_with_encoding()
+
+    BRAND_CHOICES = unique_values["brand"]
     AGE_CHOICES = [('Old', 'Old'), ('New', 'New')]
-    CPU_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    CPU_BRAND_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    RAM_CAPACITY_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    RAM_BRAND_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    HARD_DRIVE_TYPE_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    HARD_DRIVE_CAPACITY_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    CARD_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    CARD_BRAND_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
-    SCREEN_TYPE_CHOICES = [('Dell', 'Dell'), ('HP', 'HP'), ('Apple', 'Apple'),
-        ('Lenovo', 'Lenovo'), ('Asus', 'Asus'), ('Acer', 'Acer')]
+    CPU_CHOICES = unique_values["cpu"]
+    CPU_BRAND_CHOICES = unique_values["cpu_brand"]
+    RAM_CAPACITY_CHOICES = unique_values["ram_capacity"]
+    RAM_BRAND_CHOICES = unique_values["ram_brand"]
+    HARD_DRIVE_TYPE_CHOICES = unique_values["hard_drive_type"]
+    HARD_DRIVE_CAPACITY_CHOICES = unique_values["hard_drive_capacity"]
+    CARD_CHOICES = unique_values["card"]
+    CARD_BRAND_CHOICES = unique_values["card_brand"]
+    SCREEN_TYPE_CHOICES = unique_values["screen_type"]
 
     brand = forms.ChoiceField(choices=BRAND_CHOICES, widget=forms.Select(attrs={'class': 'form-control select2'}))
     age = forms.ChoiceField(choices=AGE_CHOICES, widget=forms.Select(attrs={'class': 'form-control select2'}))

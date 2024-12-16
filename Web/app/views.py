@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from .forms import LaptopPredictionForm
 from .services import predict_laptop_price
+from xgboost import XGBRegressor
 
 def predict_price(request):
     if request.method == 'POST':
