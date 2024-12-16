@@ -21,9 +21,10 @@ def get_unique_values_with_encoding():
             .distinct()
         )
 
-        # Apply Label Encoding
-        label_encoder = LabelEncoder()
-        encoded_values = label_encoder.fit_transform(list(values))
+        if field in ["brand", "cpu", "cpu_brand", "ram_brand", "hard_drive_type", "hard_drive_capacity", "card", "card_brand", "screen_type"]:
+            # Apply Label Encoding
+            label_encoder = LabelEncoder()
+            encoded_values = label_encoder.fit_transform(list(values))
 
         # Store the original value along with its encoded value
         unique_values_with_encoding[field] = list(zip(encoded_values, values))
