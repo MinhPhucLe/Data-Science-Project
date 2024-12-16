@@ -180,6 +180,18 @@ def wapper_childpage(child_url):
             if 'vga' in clean_text.lower():
                 tmp = re.sub(r'.*\:\s', '', clean_text)
                 card = tmp
+                Nvidia_match = r'RTX \d{4}(\sTi)?|GTX \d{3,4}|Jetson \w+|CMP \d{2}HX|Geforce'
+                AMD_match = r'(Radeon|Instinct|RX \d{4}|MI\d{3,4})'
+                if re.search(Nvidia_match, card, re.IGNORECASE):
+                    card_brand = 'Nvidia'
+                elif re.search(AMD_match, card, re.IGNORECASE):
+                    card_brand = 'AMD'
+                elif re.search(r'Intel', card, re.IGNORECASE):
+                    card_brand = 'Intel'
+                elif re.search(r'Qualcom', card, re.IGNORECASE):
+                    card_brand = 'Qualcom'
+                else:
+                    card_brand = 'Apple'
 
             # Extract Display information
             if 'display' in clean_text.lower():
@@ -208,6 +220,7 @@ def wapper_childpage(child_url):
             "hard_drive_type": hard_drive_type,
             "hard_drive_capacity": hard_drive_capacity,
             "card": card,
+            "card_brand": card_brand,
             "screen_size": screen_size,
             "screen_type": screen_type,
         }
