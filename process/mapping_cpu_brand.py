@@ -7,5 +7,6 @@ cpu_brand_mapping = {
     'Snapdragon': 'Qualcomm',
     'M': 'Apple',
     'M2': 'Apple',
-    'M3': 'Apple'
+    'M3': 'Apple',
+    'Ryzen': 'AMD'
 }

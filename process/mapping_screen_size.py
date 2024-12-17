@@ -30,5 +30,6 @@ screen_size_mapping = {
     '16” QHD+ IPS 240Hz 100% DCI-P3': '16',
     '17” QHD+ IPS 240Hz': '17',
     '16” QHD+ IPS 240Hz\xa0100% DCI-P3': '16',
-    '17” QHD+ IPS\xa0240Hz':'17'
+    '17” QHD+ IPS\xa0240Hz':'17', 
+    '60Hz': None
 }
