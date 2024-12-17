@@ -14,7 +14,9 @@ services:
     volumes:
       - ./init-db.sql:/docker-entrypoint-initdb.d/init-db.sql
   superset:
-    image: apache/superset:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: apache_superset
     ports:
       - "8089:8088"
